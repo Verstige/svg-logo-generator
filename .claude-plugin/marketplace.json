@@ -1,0 +1,19 @@
+{
+  "name": "svg-logo-generator",
+  "description": "Generate custom SVG logos with project context scanning, adaptive brainstorming, and full brand kit export (favicons, social images, PWA manifest). For the creative framework (brand strategy, AI prompts, SVG rules, motion, brand systems), see logo-design. Use when asked to generate a logo, create an SVG logo, or build a brand asset kit for an existing project.",
+  "owner": {
+    "name": "Julylan Johnson",
+    "url": "https://github.com/Verstige"
+  },
+  "metadata": {
+    "description": "Generate custom SVG logos with project context scanning, adaptive brainstorming, and full brand kit export (favicons, social images, PWA manifest). For the creative framework (brand strategy, AI prompts, SVG rules, motion, brand systems), see logo-design. Use when asked to generate a logo, create an SVG logo, or build a brand asset kit for an existing project.",
+    "version": "1.0.0"
+  },
+  "plugins": [
+    {
+      "name": "svg-logo-generator",
+      "source": "./plugins/svg-logo-generator",
+      "description": "Generate custom SVG logos with project context scanning, adaptive brainstorming, and full brand kit export (favicons, social images, PWA manifest). For the creative framework (brand strategy, AI prompts, SVG rules, motion, brand systems), see logo-design. Use when asked to generate a logo, create an SVG logo, or build a brand asset kit for an existing project."
+    }
+  ]
+}

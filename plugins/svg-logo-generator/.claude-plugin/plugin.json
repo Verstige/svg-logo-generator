@@ -1,0 +1,18 @@
+{
+  "name": "svg-logo-generator",
+  "displayName": "Svg Logo Generator",
+  "version": "1.0.0",
+  "description": "Generate custom SVG logos with project context scanning, adaptive brainstorming, and full brand kit export (favicons, social images, PWA manifest). For the creative framework (brand strategy, AI prompts, SVG rules, motion, brand systems), see logo-design. Use when asked to generate a logo, create an SVG logo, or build a brand asset kit for an existing project.",
+  "author": {
+    "name": "the maintainers"
+  },
+  "license": "MIT",
+  "keywords": [
+    "skills",
+    "agent",
+    "svg logo generator"
+  ],
+  "skills": [
+    "./skills/"
+  ]
+}
